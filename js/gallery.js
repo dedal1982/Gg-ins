@@ -320,7 +320,7 @@ function renderGallery(data) {
 
 // Функция для определения, какой массив использовать в зависимости от ширины экрана
 function chooseGalleryData() {
-  if (window.innerWidth <= 768) {
+  if (window.innerWidth <= 767) {
     return initGalleryMobile;
   } else {
     return initGallery;
