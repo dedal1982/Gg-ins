@@ -776,7 +776,8 @@ input[type="search"]::-webkit-search-results-decoration {
 }
 
 .catalog__gallery::-webkit-scrollbar-thumb {
-  background-color: #1100ff;
+  background: linear-gradient(0deg, #0d10131a, #0d101300),
+    linear-gradient(180deg, rgb(13 16 19 / 64%) 0%, rgba(0, 117, 255, 0.3) 100%);
   border-radius: 2px;
   height: 24px !important;
 }
