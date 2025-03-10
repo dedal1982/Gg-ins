@@ -806,6 +806,7 @@ input[type="search"]::-webkit-search-results-decoration {
     grid-template-columns: 1fr;
     padding-top: 20px;
     padding-bottom: 20px;
+    margin-top: 50px;
   }
 }
 .catalog__card {
