@@ -553,7 +553,7 @@ button {
 @media screen and (max-width: 767px) {
   .catalog__wrapper {
     padding-top: 60px;
-    padding-bottom: 60px;
+    padding-bottom: 0;
   }
   #catalog {
     margin-left: 0;
