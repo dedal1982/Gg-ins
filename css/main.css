@@ -804,8 +804,8 @@ input[type="search"]::-webkit-search-results-decoration {
 @media screen and (max-width: 767px) {
   .catalog__gallery {
     grid-template-columns: 1fr;
-    padding-top: 0;
-    padding-bottom: 0;
+    padding-top: 20px;
+    padding-bottom: 20px;
   }
 }
 .catalog__card {
